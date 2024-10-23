@@ -2,7 +2,7 @@
 
 ## 主要功能说明：
 
-**读取MongoDB数据库内的数据并生成Oracle的插入SQL，通过JDBC实现数据迁移。**
+读取MongoDB数据库内的数据并生成Oracle的插入SQL，通过JDBC实现数据迁移。
 
 
 ## 程序使用说明：
